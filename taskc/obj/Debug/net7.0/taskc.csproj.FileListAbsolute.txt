@@ -1,0 +1,15 @@
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\bin\Debug\net7.0\taskc.exe
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\bin\Debug\net7.0\taskc.deps.json
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\bin\Debug\net7.0\taskc.runtimeconfig.json
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\bin\Debug\net7.0\taskc.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\bin\Debug\net7.0\taskc.pdb
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\taskc.csproj.AssemblyReference.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\taskc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\taskc.AssemblyInfoInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\taskc.AssemblyInfo.cs
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\taskc.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\taskc.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\refint\taskc.dll
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\taskc.pdb
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\taskc.genruntimeconfig.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\taskc\taskc\obj\Debug\net7.0\ref\taskc.dll
